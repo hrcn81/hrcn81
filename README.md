@@ -7,7 +7,7 @@ I am currently pursuing a career in Data Science, driven by a deep curiosity and
 # Skills 🛠️
 - Programming Languages: Python, R
 - Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn
-Machine Learning: Scikit-Learn, TensorFlow, Keras
-Statistical Analysis: Hypothesis testing, Regression analysis
-Database Management: SQL
-Big Data Technologies: Spark
+- Machine Learning: Scikit-Learn, TensorFlow, Keras
+- Statistical Analysis: Hypothesis testing, Regression analysis
+- Database Management: SQL
+- Big Data Technologies: Spark
