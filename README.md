@@ -9,4 +9,4 @@ I am currently pursuing a career in Data Science, driven by a deep curiosity and
 - Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn
 - Machine Learning: Scikit-Learn, TensorFlow, Keras
 - Statistical Analysis: Hypothesis testing, Regression analysis
-- Database Management: SQL
+- Database Management: MySQL
